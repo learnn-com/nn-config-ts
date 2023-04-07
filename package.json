@@ -1,6 +1,4 @@
-{
-  "name": "@learnn/nn-config-ts",
-  "private": true,
+{"name": "@learnn/nn-config-ts",
   "version": "0.0.1",
   "license": "MIT",
   "files": [
