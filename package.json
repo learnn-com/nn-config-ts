@@ -1,9 +1,13 @@
-{"name": "@learnn/nn-config-ts",
-  "version": "0.0.1",
-  "license": "MIT",
-  "files": [
-    "base.json",
-    "library.json",
-    "library-test.json"
-  ]
+{
+    "name": "@learnn/nn-config-ts",
+    "version": "0.0.1",
+    "license": "MIT",
+    "files": [
+        "base.json",
+        "cdk.json",
+        "common.json",
+        "library.json",
+        "library-test.json",
+        "react.json"
+    ]
 }

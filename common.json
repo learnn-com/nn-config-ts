@@ -1,0 +1,11 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Common",
+    "extends": "./base.json",
+    "compilerOptions": {
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "module": "CommonJS",
+        "outDir": "dist"
+    },
+    "include": ["./types/main.d.ts", "src/**/*.ts"]
+}
