@@ -3,7 +3,9 @@
     "display": "CDK",
     "extends": "./base.json",
     "compilerOptions": {
-        "lib": ["DOM", "DOM.Iterable", "ESNext"]
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "forceConsistentCasingInFileNames": false,
+        "preserveSymlinks": false
     },
     "ts-node": {
         "compilerOptions": {
